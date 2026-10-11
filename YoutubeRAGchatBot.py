@@ -154,4 +154,4 @@ if "vectorstore" in st.session_state:
         with st.chat_message("assistant"):
             st.write(a)
 else:
-    st.info("Please process a video first using the sidebar.")
+    st.info(" Process a video first using the sidebar.")
