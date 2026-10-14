@@ -1,0 +1,28 @@
+# Langchain Core
+Langchain 
+Langchain-core
+Langchain-community
+
+# OpenAi 
+Langchain-openai
+Openai
+
+# Anthropic
+Langchain-anthropic
+
+# Google 
+Langchain-google-genai
+Google-generativeai
+
+# Hugging face
+Langchain-huggingface
+Transformer
+Hugging face-hub
+
+# Environment V_M
+Python-dotenv
+
+# Machine learning 
+Numpy
+Scikit-learn
+
